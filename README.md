@@ -1,4 +1,4 @@
-# Neural Style Transfer 
+
 # Neural Style Transfer with Streamlit Frontend
 Overview
 This repository contains an implementation of Neural Style Transfer, a fascinating deep-learning technique that allows you to apply one image's artistic style to another's content. The project includes a Jupyter notebook for the style transfer algorithm and a Streamlit frontend for easy and interactive use.
@@ -39,3 +39,13 @@ Feel free to contribute to this project by opening issues, providing feedback, o
 Enjoy exploring the fascinating world of Neural Style Transfer!
 
 Note: If you happen to have any issues or have questions, please refer to the documentation or create a GitHub issue. 
+![WhatsApp Image 2024-01-13 at 12 37 39 PM](https://github.com/Atharvakarekar/Neural-Style-Transfer-/assets/91048746/116daef8-e43a-4d34-a8c6-643979b20cf0)
+
+![WhatsApp Image 2024-01-13 at 12 38 00 PM](https://github.com/Atharvakarekar/Neural-Style-Transfer-/assets/91048746/767e5e4e-0b86-4902-ab5b-928e7ac93f76)
+
+![WhatsApp Image 2024-01-13 at 12 38 09 PM](https://github.com/Atharvakarekar/Neural-Style-Transfer-/assets/91048746/dd0cef6a-2877-401f-9877-24a75d7b75a4)
+
+![WhatsApp Image 2024-01-13 at 12 38 22 PM](https://github.com/Atharvakarekar/Neural-Style-Transfer-/assets/91048746/2bba4c8a-a882-4712-a125-24b4ccc7c48a)
+
+
+
